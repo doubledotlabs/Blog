@@ -1,4 +1,4 @@
-This blog, hosted by [Double Dot Labs](https://doubledot.dev/), is meant to document anything and everything that exists in open source software.
+This blog, hosted by [Double Dot Labs](https://doubledot.dev/blog/), exists as a centralized collection for documenting anything and everything that exists in open source software.
 
 [![Freenode IRC channel.](https://img.shields.io/badge/irc.freenode.net-%23%23doubledotlabs-brightgreen.svg?color=008499)](https://webchat.freenode.net/?channels=%23%23doubledotlabs&uio=MTY9dHJ1ZSY5PXRydWUmMTE9MjE1e1)
 [![Twitter account.](https://img.shields.io/badge/twitter-%40doubledotlabs-blue.svg?color=43b4f9&logo=twitter)](https://twitter.com/doubledotlabs)
@@ -38,4 +38,5 @@ For various reasons, any articles about excessively controversial or political t
 Content in this repository is dedicated to the public domain under the [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/). By contributing to this repository, you relinquish any copyright ownership to the contributed material. A copy of the CC0 license is provided [here](./LICENSE).
 
 To the extent possible under law, [Double Dot Labs Blog contributors](https://doubledot.dev/blog/contributors/) have waived all copyright and related or neighboring rights to this work.
+
 [![Creative commons license button.](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
