@@ -11,7 +11,7 @@ Next, create a markdown file in the forked repository named with the format `{ye
 
 In order for your article to show up on the site, it will need to have a [front matter](https://jekyllrb.com/docs/front-matter/). To properly index your article, copy the text below to the top of the file, replacing the required metadata where necessary.
 
-For a list of available tags, see the files in [this directory](https://github.com/DoubleDotLabs/DoubleDotLabs.github.io/tree/master/_tags). If there is a tag missing that you believe would be beneficial to the collection, please [create a new issue](https://github.com/DoubleDotLabs/Blog/issues/new) with the title "New tag: {tag name}" explaining why it should be added.
+For a list of available tags, see the files in [this directory](https://github.com/DoubleDotLabs/DoubleDotLabs.github.io/tree/master/_tags). If there is a tag missing that you believe would be beneficial to the collection, please [create a new issue](https://github.com/DoubleDotLabs/Blog/issues/new) with the title "New tag: {tag name}" explaining why it should be added. It doesn't have to be long, just as long as it demonstrates that the tag has a specific purpose; it is not directly related to a specific organization or project, but is more specific than something like `messaging`, which can have more than one meaning (e.g. text messaging / social networks, firebase cloud messaging / server technology).
 
 ```
 ---
@@ -36,7 +36,7 @@ citations:
 
 Place your article text below this front matter, formatted in [Markdown styling](https://guides.github.com/features/mastering-markdown/). GitHub-flavored markdown is partially supported.
 
-For various reasons, any articles about excessively controversial or political topics will not be accepted. Once your article is finished, you may [create a pull request](https://help.github.com/en/articles/creating-a-pull-request) to have it reviewed and added to this collection.
+For various reasons, any articles about excessively controversial or political topics will not be accepted. Once your article is finished, you may [create a pull request](https://help.github.com/en/articles/creating-a-pull-request) to have it reviewed and added to this collection. You must have explicit permission from all authors of an article in order to contribute it to this blog.
 
 ## License
 
