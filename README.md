@@ -1,6 +1,6 @@
 This blog, hosted by [Double Dot Labs](https://doubledot.dev/blog/), exists as a centralized collection for documenting anything and everything that exists in open source software.
 
-[![Freenode IRC channel.](https://img.shields.io/badge/irc.freenode.net-%23%23doubledotlabs-brightgreen.svg?color=008499)](https://webchat.freenode.net/?channels=%23%23doubledotlabs&uio=MTY9dHJ1ZSY5PXRydWUmMTE9MjE1e1)
+[![Freenode IRC channel.](https://img.shields.io/badge/irc.freenode.net-%23%23doubledotlabs-brightgreen.svg)](https://webchat.freenode.net/?channels=%23%23doubledotlabs&uio=MTY9dHJ1ZSY5PXRydWUmMTE9MjE1e1)
 [![Twitter account.](https://img.shields.io/badge/twitter-%40doubledotlabs-blue.svg?color=43b4f9&logo=twitter)](https://twitter.com/doubledotlabs)
 [![CLA assistant.](https://cla-assistant.io/readme/badge/DoubleDotLabs/Blog)](https://cla-assistant.io/DoubleDotLabs/Blog)
 
