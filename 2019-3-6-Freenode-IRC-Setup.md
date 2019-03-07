@@ -2,7 +2,10 @@
 layout: blog
 title: "Joining Freenode IRC: A Guide"
 description: "Basic (but detailed) instructions for setting up a Freenode IRC account through various clients."
-tags: introduction instructional irc
+tags:
+  - introduction
+  - instructional
+  - irc
 authors:
   - name: "James Fenn"
     url: https://jfenn.me/

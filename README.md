@@ -18,7 +18,12 @@ For a list of available tags, see the files in [this directory](https://github.c
 layout: blog
 title: "Post Title"
 description: "A short 1-2 sentence description of your article."
-tags: relevant tags separated by spaces
+tags:
+  - a
+  - bunch
+  - of
+  - relevant
+  - tags
 authors:
   - name: "Author Name"
     url: https://example.com/
