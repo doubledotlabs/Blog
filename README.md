@@ -9,7 +9,7 @@ To contribute an article to this collection, first [fork this repository](https:
 
 Next, create a markdown file in the forked repository named with the format `{year}-{month}-{day}-{title}.md`.
 
-In order for your article to show up on the site, it will need to have a [front matter](https://jekyllrb.com/docs/front-matter/). To properly index your article, copy the text below to the top of the file, replacing the required metadata where necessary.
+In order for your article to show up on the site, it will need to have a [front matter](https://jekyllrb.com/docs/front-matter/). To properly index your article, copy the text below to the top of the file, replacing the required metadata where necessary. Each submission must have a minimum of one tag, one author, and one citation.
 
 For a list of available tags, see the files in [this directory](https://github.com/DoubleDotLabs/DoubleDotLabs.github.io/tree/master/_tags). If there is a tag missing that you believe would be beneficial to the collection, please [create a new issue](https://github.com/DoubleDotLabs/Blog/issues/new) with the title "New tag: {tag name}" explaining why it should be added. It doesn't have to be long, just as long as it demonstrates that the tag has a specific purpose; it is not directly related to a specific organization or project, but is more specific than something like `messaging`, which can have more than one meaning (e.g. text messaging / social networks, firebase cloud messaging / server technology).
 
@@ -18,12 +18,14 @@ For a list of available tags, see the files in [this directory](https://github.c
 layout: blog
 title: "Post Title"
 description: "A short 1-2 sentence description of your article."
+tag: "most relevant tag"
 tags:
   - a
   - bunch
   - of
   - relevant
   - tags
+author: "Primary Author / Group Name"
 authors:
   - name: "Author Name"
     url: https://example.com/

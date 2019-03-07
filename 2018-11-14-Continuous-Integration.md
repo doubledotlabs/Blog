@@ -2,10 +2,12 @@
 layout: blog
 title: "Continuous Integration with Travis CI for Android"
 description: "An in-depth tutorial explaining how to set up Travis CI to deploy signed builds to Google Play. Among other things."
+tag: ci
 tags:
   - android
   - instructional
   - ci
+author: "James Fenn"
 authors:
   - name: "James Fenn"
     url: https://jfenn.me/
