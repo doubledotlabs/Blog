@@ -18,7 +18,6 @@ For a list of available tags, see the files in [this directory](https://github.c
 layout: blog
 title: "Post Title"
 description: "A short 1-2 sentence description of your article."
-tag: "most relevant tag"
 tags:
   - a
   - bunch
