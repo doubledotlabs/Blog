@@ -24,20 +24,20 @@ Internet Relay Chat is a difficult thing to get used to, especially for people w
 
 The first thing that you'll want to do before logging into freenode is choose an IRC client to connect with. I've compiled a list of the ones that I have tried below.
 
-- *Android*
+- **Android**
   - [Revolution IRC Client](https://play.google.com/store/apps/details?id=io.mrarm.irc)
   - [AndroIRC](https://play.google.com/store/apps/details?id=com.androirc)
   - [IRCCloud](https://play.google.com/store/apps/details?id=com.irccloud.android)
-- *Linux*
-  - *CLI*
+- **Linux**
+  - **CLI**
     - [WeeChat](https://weechat.org/)
     - [Irssi](https://irssi.org/)
-  - *GUI*
+  - **GUI**
     - [HexChat](https://hexchat.github.io/)
     - [XChat](http://xchat.org/)
-- *Windows*
+- **Windows**
   - [HexChat Windows](https://www.microsoft.com/en-us/p/hexchat/9nrrbgttm4j2)
-- *Web*
+- **Web**
   - [Freenode Webchat](https://webchat.freenode.net/)
   - [Kiwi IRC](https://kiwiirc.com/)
   - [The Lounge](https://demo.thelounge.chat/)
