@@ -38,7 +38,7 @@ citations:
 
 Place your article text below this front matter, formatted in [Markdown styling](https://guides.github.com/features/mastering-markdown/). GitHub-flavored markdown is partially supported.
 
-For various reasons, any articles about excessively controversial or political topics will not be accepted. Once your article is finished, you may [create a pull request](https://help.github.com/en/articles/creating-a-pull-request) to have it reviewed and added to this collection. You must have explicit permission from all authors of an article in order to contribute it to this blog.
+For various reasons, any articles about excessively controversial or political topics will not be accepted. Once your article is finished, you will need to agree to the [Contributor License Agreement](https://cla-assistant.io/DoubleDotLabs/Blog), then you may [create a pull request](https://help.github.com/en/articles/creating-a-pull-request) to have it reviewed and added to this collection. You must have explicit permission from all authors of an article in order to contribute it to this blog.
 
 ## License
 
