@@ -44,6 +44,6 @@ For various reasons, any articles about excessively controversial or political t
 
 Content in this repository is dedicated to the public domain under the [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/). By contributing to this repository, you relinquish any copyright ownership to the contributed material. A copy of the CC0 license is provided [here](./LICENSE).
 
-To the extent possible under law, [Double Dot Labs Blog contributors](https://doubledot.dev/blog/contributors/) have waived all copyright and related or neighboring rights to this work.
-
-[![Creative commons license button.](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+> To the extent possible under law, [Double Dot Labs Blog contributors](https://doubledot.dev/blog/authors/) have waived all copyright and related or neighboring rights to this work.
+> 
+> [![Creative commons license button.](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
