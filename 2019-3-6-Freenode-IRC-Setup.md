@@ -86,7 +86,7 @@ More commands, along with basic descriptions of how they work and examples of th
 
 ## Policies
 
-Last, but certainly not least, I reccomend that you scroll through [freenode's policies](https://freenode.net/policies) to get an idea of the purpose of the project and what is deemed acceptable use of their servers. Most channels have their own code of conduct to go along with these policies, which you should review to make sure that you aren't unknowingly violating any rules when contributing to a discussion. The [channel guidelines](https://freenode.net/changuide) also list more definitions of what is considered to be acceptable behavior on IRC (and really any social network).
+Last, but certainly not least, I recommend that you scroll through [freenode's policies](https://freenode.net/policies) to get an idea of the purpose of the project and what is deemed acceptable use of their servers. Most channels have their own code of conduct to go along with these policies, which you should review to make sure that you aren't unknowingly violating any rules when contributing to a discussion. The [channel guidelines](https://freenode.net/changuide) also list more definitions of what is considered to be acceptable behavior on IRC (and really any social network).
 
 ## Finale
 
