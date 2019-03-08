@@ -30,6 +30,7 @@ The first thing that you'll want to do before logging into freenode is choose an
 
 - **Android**
   - [Revolution IRC Client](https://play.google.com/store/apps/details?id=io.mrarm.irc)
+  - [Riot IM](https://about.riot.im/)
   - [AndroIRC](https://play.google.com/store/apps/details?id=com.androirc)
   - [IRCCloud](https://play.google.com/store/apps/details?id=com.irccloud.android)
 - **Linux**
@@ -42,6 +43,7 @@ The first thing that you'll want to do before logging into freenode is choose an
 - **Windows**
   - [HexChat Windows](https://www.microsoft.com/en-us/p/hexchat/9nrrbgttm4j2)
 - **Web**
+  - [Riot IM](https://riot.im/app/)
   - [Freenode Webchat](https://webchat.freenode.net/)
   - [Kiwi IRC](https://kiwiirc.com/)
   - [The Lounge](https://demo.thelounge.chat/)
