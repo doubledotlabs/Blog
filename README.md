@@ -9,9 +9,9 @@ This blog, hosted by [Double Dot Labs](https://doubledot.dev/blog/), exists as a
 We encourage others to contribute to this collection. This repository is published under the public domain and is open to any kind of
 positive contribution, including new contributions, spelling / grammar fixes, suggestions for more articles, and more.
 
-You do not have to be a member of Double Dot Labs to contribute to this project. Double Dot Labs is a community that hopes to
-improve Open Source and enable healthy collaboration. You can find more community resources, such as our code of conduct and
-license agreements, in the [DoubleDotLabs/Community](https://github.com/DoubleDotLabs/Community) repository.
+You do not have to be a member of Double Dot Labs to contribute to this project. Double Dot Labs is a community that strives to
+improve Open Source and enable healthy collaboration between individuals. You can find more community resources, such as our code
+of conduct and license agreements, in the [DoubleDotLabs/Community](https://github.com/DoubleDotLabs/Community) repository.
 
 ### Adding New Articles
 
