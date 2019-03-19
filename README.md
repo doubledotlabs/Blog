@@ -6,7 +6,7 @@ This blog, hosted by [Double Dot Labs](https://doubledot.dev/blog/), exists as a
 
 ## Contributing
 
-We encourage others to contribute to this collection. This repository is posted under the public domain, and is open to any kind of
+We encourage others to contribute to this collection. This repository is published under the public domain and is open to any kind of
 positive contribution, including new contributions, spelling / grammar fixes, suggestions for more articles, and more.
 
 You do not have to be a member of Double Dot Labs to contribute to this project. Double Dot Labs is a community that hopes to
