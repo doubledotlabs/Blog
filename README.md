@@ -67,6 +67,36 @@ There are not many requirements for modifying an article that has already been a
 for you change and it will be reviewed and (hopefully) merged accordingly. You may add yourself to the list of authors in the metadata if you
 wish (provided that this is not your sole reason for contributing).
 
+### Indexing Published Articles
+
+In the event that you do not want to go through the effort of reformatting an already-written article to publish on this blog, do not want to
+attribute your work to the public domain, or want to host the article on your site for other reasons, you can still index your article here!
+Simply create a markdown file like above but without any actual content, and use the following template in place of the metadata (the `redirect`
+attribute should contain a URL to your article):
+
+```
+---
+layout: redirect
+redirect: https://example.com/
+title: "Post Title"
+description: "A short 1-2 sentence description of your article."
+tags:
+  - a
+  - bunch
+  - of
+  - relevant
+  - tags
+author: "Primary Author / Group Name"
+authors:
+  - name: "Author Name"
+    url: https://example.com/
+    avatar: https://example.com/avatar.png
+---
+```
+
+The same as adding a complete article to this site, you must have permission from the author of the article before it can be added to this
+blog.
+
 ## License
 
 Content in this repository is dedicated to the public domain under the [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/).
