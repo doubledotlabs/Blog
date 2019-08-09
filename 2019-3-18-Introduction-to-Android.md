@@ -6,7 +6,7 @@ description: "A basic overview of the main components of an Android app and how 
 tags:
   - introduction
   - android
-author: "James Fenn / Unicorn Utterances"
+author: "James Fenn"
 authors:
   - name: "James Fenn"
     url: https://jfenn.me/

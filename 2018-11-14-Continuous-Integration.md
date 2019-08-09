@@ -7,7 +7,7 @@ tags:
   - android
   - instructional
   - ci
-author: "James Fenn / Unicorn Utterances"
+author: "James Fenn"
 authors:
   - name: "James Fenn"
     url: https://jfenn.me/

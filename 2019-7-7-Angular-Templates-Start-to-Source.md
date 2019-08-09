@@ -8,7 +8,7 @@ tags:
   - templates
   - ng-template
   - structural directives
-author: "Corbin Crutchley / Unicorn Utterances"
+author: "Corbin Crutchley"
 authors:
   - name: "Corbin Crutchley"
     url: https://unicorn-utterances.com/authors/crutchcorn
